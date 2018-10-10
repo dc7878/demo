@@ -33,4 +33,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     implementation 'com.alibaba:fastjson:1.2.49'
+
+    compile 'com.alibaba:arouter-api:1.4.0'
 }
